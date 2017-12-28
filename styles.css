@@ -100,7 +100,7 @@ a:hover {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 60px 0;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 }
 
 .post-author img {
@@ -131,5 +131,5 @@ a:hover {
 
 .post-container:nth-child(even) {
 	background-color: #f7f7f7;
-	border: 1px solid blue;
+	/*border: 1px solid blue;*/
 }
